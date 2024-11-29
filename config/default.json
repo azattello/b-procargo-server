@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:39GwL0xPjCRQh6IX@b-procargo.jw0iz.mongodb.net/?retryWrites=true&w=majority&appName=b-procargo",
+    "secretKey" : "mern-secret-key"
+}
